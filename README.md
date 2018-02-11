@@ -1,6 +1,6 @@
 # gxkb-icons
-Set of simple monochrome icons for gxkb
+Set of simple monochrome icons for <i>gxkb</i>.
 
-Replace your current gxkb icons in ./usr/share/gxkb/flags with new ones. 
+Replace your current <i>gxkb</i> icons in <b>./usr/share/gxkb/flags</b> with new ones. 
 
 Need to be a root to process.
